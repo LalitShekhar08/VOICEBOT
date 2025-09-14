@@ -3,13 +3,12 @@
 A simple voice-enabled chatbot with Retrieval-Augmented Generation (RAG) capabilities built in Python.
 
 ## Features
-
-- 🎤 **Voice Input**: Speak to the bot using your microphone
-- 🔊 **Voice Output**: Bot responds with speech synthesis
-- 📚 **Knowledge Base**: Add and store information for the bot to reference
-- 🔍 **Smart Retrieval**: Uses semantic search to find relevant information
-- 💾 **Persistent Storage**: Save and load knowledge base between sessions
-- 🤖 **OpenAI Integration**: Optional GPT-3.5 integration for enhanced responses
+- **Voice Input**: Speak to the bot using your microphone
+- **Voice Output**: Bot responds with speech synthesis
+- **Knowledge Base**: Add and store information for the bot to reference
+- **Smart Retrieval**: Uses semantic search to find relevant information
+- **Persistent Storage**: Save and load knowledge base between sessions
+- **OpenAI Integration**: Optional GPT-3.5 integration for enhanced responses
 
 ## Quick Setup
 
@@ -200,5 +199,6 @@ self.similarity_threshold = 0.3
 - ~2GB free space (for AI models)
 
 ## License
+
 
 This project is open source and available under the MIT License.
